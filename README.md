@@ -1,2 +1,6 @@
-# Graduation-materials
+# 毕设结果整理
 Graduation materials
+
+---
+##本次毕业设计者为北京理工大学2016级计算机学院物联网工程学生-贺清
+##指导老师：陆慧梅、向勇
